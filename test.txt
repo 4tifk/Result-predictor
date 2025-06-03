@@ -1,0 +1,13 @@
+Things to do:
+Add more collumns like team lineup strength, cost etc. get the players in the game
+more accurate models
+check if test and training data is right sizes
+create a league table based on win/draw/loss
+incorporate draws
+use more data from outside what has been scraped
+create a small report comparing prediction techniques
+    in report add own methods eg. transfer value table, my own prediction, goals and assists of each player in another competition etc
+
+make interactive website to visualise the points scored
+
+DO BEFORE SEASON STARTS
